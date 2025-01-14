@@ -1,7 +1,6 @@
 package com.nart.aicv.servers;
 
 import com.nart.aicv.entities.Message;
-import com.nart.aicv.exception.ValidationException;
 import org.apache.hc.client5.http.classic.methods.HttpPost;
 import org.apache.hc.client5.http.impl.classic.CloseableHttpClient;
 import org.apache.hc.client5.http.impl.classic.CloseableHttpResponse;
